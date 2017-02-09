@@ -1,0 +1,12 @@
+body{
+  background-color: olivedrab;
+}
+
+.spoiler-protect{
+  color: olivedrab;
+  background-color: olivedrab;
+}
+
+.spoiler-protect:hover{
+  background-color: slateblue;
+}
